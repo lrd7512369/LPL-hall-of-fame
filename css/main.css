@@ -1,0 +1,13 @@
+.item{
+	width: 200px;
+	height:300px;
+	background-color: #333438;
+	margin: 50px;
+	box-shadow: 5px 5px 30px rgba(0,0,0,.3),-5px 5px 30px rgba(0,0,0,.3);
+	border-radius: 5px;
+}
+.tb{
+	/*background-color: #ff0000;*/
+	margin: 100px auto;
+	padding: 50px; 
+}
